@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd razorpay-clone
+    cd Razorpay-clone
     ```
 
 3. Install all the node modules:
