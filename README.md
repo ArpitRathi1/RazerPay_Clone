@@ -27,3 +27,24 @@ This repository contains a clone of the RazorPay website, built using HTML and T
 ![Screenshot from 2024-08-08 19-00-05](https://github.com/user-attachments/assets/e3690536-13a7-46b2-83fb-6aab83828226)
 
 ![Screenshot from 2024-08-08 19-00-17](https://github.com/user-attachments/assets/0ed391db-a3c3-42b0-8068-47192e82de34)
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **Tailwind CSS**: For styling and layout.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/razorpay-clone.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd razorpay-clone
+    ```
+
+3. Open the `index.html` file in your browser to view the project.
