@@ -22,3 +22,8 @@ This repository contains a clone of the RazorPay website, built using HTML and T
 
 ## Screenshots
 
+![Screenshot from 2024-08-08 18-59-32](https://github.com/user-attachments/assets/a83493ae-4077-44d9-a9ce-0136b81b0622)
+
+![Screenshot from 2024-08-08 19-00-05](https://github.com/user-attachments/assets/e3690536-13a7-46b2-83fb-6aab83828226)
+
+![Screenshot from 2024-08-08 19-00-17](https://github.com/user-attachments/assets/0ed391db-a3c3-42b0-8068-47192e82de34)
