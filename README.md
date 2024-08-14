@@ -1,4 +1,4 @@
-# RazerPay_Clone
+# RazorPay_Clone
 
 This repository contains a clone of the RazorPay website, built using HTML and Tailwind CSS. The project replicates the design and layout of the original RazorPay website, showcasing the use of Tailwind CSS for responsive and modern web design.
 
