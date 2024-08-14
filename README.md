@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/razorpay-clone.git
+    git clone https://github.com/ArpitRathi1/RazorPay_Clone.git
     ```
 
 2. Navigate to the project directory:
@@ -47,7 +47,14 @@ To run this project locally, follow these steps:
     cd razorpay-clone
     ```
 
-3. Open the `index.html` file in your browser to view the project.
+3. Install all the node modules:
+    ```bash
+    npm install
+    ```
+4. command:
+    ```bash
+    npm run dev
+    ```
 
 ## Usage
 
