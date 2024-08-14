@@ -48,3 +48,23 @@ To run this project locally, follow these steps:
     ```
 
 3. Open the `index.html` file in your browser to view the project.
+
+## Usage
+
+This project can be used as a starting point for creating web pages with Tailwind CSS. Feel free to modify the code and experiment with different Tailwind utilities to achieve your desired design.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. You can also open an issue to discuss any changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgements
+
+- [RazorPay](https://razorpay.com/) for their inspiring design.
+- [Tailwind CSS](https://tailwindcss.com/) for providing an awesome utility-first CSS framework.
+- [Font Awesome](https://fontawesome.com/) for the icons used in the project *(if applicable)*.
+
+---
