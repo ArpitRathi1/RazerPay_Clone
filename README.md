@@ -19,3 +19,6 @@ This repository contains a clone of the RazorPay website, built using HTML and T
 - Pixel-perfect recreation of the RazorPay website's layout
 - Clean and modern UI with a focus on usability
 - Fast loading times and optimized performance
+
+## Screenshots
+
